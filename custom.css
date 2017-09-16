@@ -38,29 +38,33 @@ hr {
     font-size: 5.4em;
 }
 #section1 {
-    padding-top: 56px;
-    height: 100vh;
-    overflow-y: scroll;
-    overflow-x: hidden;
+    
+    padding-top: 200px;
+    padding-bottom: 200px;
+    height: 100%;
+    //overflow-y: scroll;
+    //overflow-x: hidden;
 }
 #section2 {
-    padding-top: 56px;
+    
+    padding-top: 200px;
+    padding-bottom: 200px;
     background-image: url("assets/images/people-woman-coffee-meeting-editied.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    
     color: white;
-    overflow-y: scroll;
-    overflow-x: hidden;
+    //overflow-y: scroll;
+    //overflow-x: hidden;
 }
 #section3 {
     padding-top: 56px;
     background-color: mintcream;
     height: 100vh;
-    overflow-y: scroll;
-    overflow-x: hidden;
+    //overflow-y: scroll;
+    //overflow-x: hidden;
 }
 #italics1 {
     font-style: italic;
