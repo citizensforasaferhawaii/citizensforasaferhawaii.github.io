@@ -40,11 +40,6 @@ hr {
         background-attachment: scroll;
     }
 }
-@media only screen and (max-device-width: 1024px) {
-    #section2 {
-        background-attachment: scroll;
-    }
-}
 #title {
     font-size: 5.4em;
 }
@@ -69,6 +64,11 @@ hr {
     color: white;
     //overflow-y: scroll;
     //overflow-x: hidden;
+}
+@media only screen and (max-device-width: 1024px) {
+    #section2 {
+        background-attachment: scroll;
+    }
 }
 #section3 {
     padding-top: 56px;
