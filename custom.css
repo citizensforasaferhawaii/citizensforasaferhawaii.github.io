@@ -2,11 +2,15 @@ body {
     margin-top: 56px;
     position: relative;
 }
+#logo {
+    height: 3vh;
+}
 hr {
     border: solid 1px black;
 }
 .lead {
-    font-size: 1.1em;
+    font-size: 1.2vh;
+    //font-size: 0.5vmax;
 }
 #l {
     border: solid 1px white;
