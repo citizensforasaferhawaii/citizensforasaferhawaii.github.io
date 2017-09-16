@@ -3,13 +3,13 @@ body {
     position: relative;
 }
 #logo {
-    height: 2.5vh;
+    height: 2.8vh;
 }
 hr {
     border: solid 1px black;
 }
 .lead {
-    font-size: 1.3vh;
+    font-size: 1.5vh;
     //font-size: 0.5vmax;
 }
 #l {
