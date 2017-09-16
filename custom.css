@@ -1,0 +1,94 @@
+body {
+    margin-top: 56px;
+    position: relative;
+}
+hr {
+    border: solid 1px black;
+}
+#l {
+    border: solid 1px white;
+}
+#w {
+    border: solid 1px white;
+}
+#section1 p {
+    text-indent: 50px;
+}
+#section2 p{
+    text-indent: 50px;
+}
+#land {
+    background-image: url(assets/images/HIZEN-heeia-kbay.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    
+}
+#section1 {
+    padding-top: 56px;
+    height: 100vh;
+}
+#section2 {
+    padding-top: 56px;
+    background-image: url("assets/images/people-woman-coffee-meeting-editied.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+#section3 {
+    padding-top: 56px;
+    background-color: mintcream;
+    height: 100vh;
+}
+#italics1 {
+    font-style: italic;
+}
+.icon {
+    width: 68px;
+    display: block;
+    margin: auto;
+}
+.icons {
+    width: 300px;
+}
+#twitter {
+    fill: #1DA1F2;
+    -webkit-transition: fill 300ms ease-out;
+    -moz-transition: fill 300ms ease-out;
+    -o-transition: fill 300ms ease-out;
+    transition: fill 300ms ease-out;
+}
+#twitter:hover {
+    fill: lightblue;
+    cursor: pointer;
+}
+#facebook {
+    fill: #3B5998;
+    -webkit-transition: fill 300ms ease-out;
+    -moz-transition: fill 300ms ease-out;
+    -o-transition: fill 300ms ease-out;
+    transition: fill 300ms ease-out;
+    
+}
+#facebook:hover {
+    fill: lightblue;
+    cursor: pointer;
+}
+#instagram {
+    fill: #E4405F;
+     -webkit-transition: fill 300ms ease-out;
+    -moz-transition: fill 300ms ease-out;
+    -o-transition: fill 300ms ease-out;
+    transition: fill 300ms ease-out;
+}
+#instagram:hover {
+    fill: lightblue;
+    cursor: pointer;
+}
+
