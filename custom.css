@@ -5,6 +5,9 @@ body {
 hr {
     border: solid 1px black;
 }
+.lead {
+    font-size: 1.1em;
+}
 #l {
     border: solid 1px white;
 }
@@ -27,9 +30,14 @@ hr {
     color: white;
     
 }
+#title {
+    font-size: 5.4em;
+}
 #section1 {
     padding-top: 56px;
     height: 100vh;
+    //overflow-y: scroll;
+    //overflow-x: hidden;
 }
 #section2 {
     padding-top: 56px;
@@ -90,5 +98,8 @@ hr {
 #instagram:hover {
     fill: lightblue;
     cursor: pointer;
+}
+#smallWidth {
+    
 }
 
